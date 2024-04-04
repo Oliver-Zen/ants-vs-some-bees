@@ -138,6 +138,7 @@ class Ant(Insect):
             # BEGIN Problem 8b
             if place.ant.is_container and not place.ant.ant_contained and not self.is_container:
                 place.ant.ant_contained = self
+                place.ant = self
             elif self.is_container and not self.ant_contained and not place.ant.is_container:
                 self.ant_contained = place.ant
                 place.ant = self
