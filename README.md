@@ -1,4 +1,6 @@
-# ants-vs-some-bees
+# ants-vs-somebees
+![Uploading image.png…]()
+
 "In this project, [I] created a tower defense game called Ants Vs. SomeBees. 
 Ants protect their queen from the bees that invade [my] territory. Irritate the bees enough by throwing leaves at them, and they will be vanquished. Fail to pester the airborne intruders adequately, and [my] queen will succumb to the bees' wrath. This game is inspired by PopCap Games' Plants Vs. Zombies.
 
